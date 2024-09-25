@@ -1,0 +1,15 @@
+{
+  "originHash" : "8ded5f8ae6dc79d35bc59978aead427e9305a7f4b30e339e48cf92ba4b1083b0",
+  "pins" : [
+    {
+      "identity" : "serializedswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dejanskledar/SerializedSwift.git",
+      "state" : {
+        "revision" : "9ed26f1561156c42374280ebdbf92bf5327bc8b5",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
